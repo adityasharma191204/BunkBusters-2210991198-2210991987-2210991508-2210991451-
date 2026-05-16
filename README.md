@@ -7,8 +7,8 @@
 |-------------|------|
 | 2210991198 | Aditya Sharma |
 | 2210991987 | Nischay Bareja |
-| 2210991508 | 2210991508 |
-| 2210991451 | 2210991451 |
+| 2210991508 | Dhruv Jain |
+| 2210991451 | Chaitanya Chadha |
 
 ### 📖 Project Title
 **BunkBusters: Geo-Fenced and Device-Bound Smart Attendance System**
