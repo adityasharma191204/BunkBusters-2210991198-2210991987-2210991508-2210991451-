@@ -6,9 +6,9 @@
 | Roll Number | Name |
 |-------------|------|
 | 2210991198 | Aditya Sharma |
-| 2210991987 | Team Member 2 |
-| 2210991508 | Team Member 3 |
-| 2210991451 | Team Member 4 |
+| 2210991987 | Nischay Bareja |
+| 2210991508 | 2210991508 |
+| 2210991451 | 2210991451 |
 
 ### 📖 Project Title
 **BunkBusters: Geo-Fenced and Device-Bound Smart Attendance System**
